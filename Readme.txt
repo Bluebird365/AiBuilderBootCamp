@@ -1,0 +1,1 @@
+This repository serves as the central node for all the projects I am wokring on in Shaw's AiBuilder Boot Camp work.
